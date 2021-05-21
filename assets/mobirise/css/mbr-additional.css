@@ -683,6 +683,8 @@ a {
   transition: color 0.6s;
 }
 .cid-s48MCQYojq {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-s48MCQYojq .mbr-section-title {
@@ -760,9 +762,9 @@ a {
   content: "\e925";
   font-family: Moririse2 !important;
   position: absolute;
-  font-size: 32px;
+  font-size: 24px;
   left: 50%;
-  top: 120%;
+  top: 116%;
   color: #6592e6;
   transform: translate(-50%, 0);
 }
